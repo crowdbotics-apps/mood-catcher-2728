@@ -1,0 +1,3 @@
+rootProject.name = 'mood_catcher_2728'
+
+include ':app'
